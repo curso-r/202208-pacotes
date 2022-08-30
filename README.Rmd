@@ -49,11 +49,11 @@ Fora do horário de aula ou monitoria:
 
 ```{r}
 pasta <- "praticas/"
-aulas <- CursoRopen:::list_github_files(params$turma, pasta, "README")
+aulas <- CursoRopen:::list_github_files(params$turma, pasta, "DESCRIPTION")
 if (length(aulas) > 0) {
   knitr::kable(
     tibble::tibble(
-      script = unique(dirname()),
+      script = unique(dirname(aulas)),
       link = paste0(
         "https://github.com/curso-r/",
         params$turma,

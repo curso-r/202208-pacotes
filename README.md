@@ -22,6 +22,10 @@ Fora do horário de aula ou monitoria:
 
 ## Scripts desenvolvidos em aula
 
+| script                                                                                       |
+|:---------------------------------------------------------------------------------------------|
+| [praticas/countrrry](https://github.com/curso-r/202208-pacotes/blob/main/praticas/countrrry) |
+
 ## Lição de casa
 
 | exercicio                                                                                                                   |
