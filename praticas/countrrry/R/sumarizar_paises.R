@@ -1,4 +1,12 @@
-sumarizar_paises <- function(continentes = "Europa",
+
+#' Title
+#'
+#' @param continentes bla
+#' @param ano_minimo bla
+#'
+#' @return bla
+#' @export
+sumarizar_paises <- function(continentes = "\u00C1sia",
                              ano_minimo = 2000) {
 
   ## ALTERNATIVA GLOBAL VARS
@@ -28,7 +36,6 @@ sumarizar_paises <- function(continentes = "Europa",
       .groups = "drop"
     )
 }
-
 
 sumarizar_paises2 <- function(dados, coluna) {
   dados |>
