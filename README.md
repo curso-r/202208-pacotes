@@ -68,11 +68,6 @@ relacionadas com o conteúdo da aula).
 |    1 | IDE                     | [VS Code](https://code.visualstudio.com/)                                                                                                                                          |
 |    1 | Conversas               | [Programando R no VS Code](https://blog.curso-r.com/posts/2021-11-06-r-no-vscode/)                                                                                                 |
 |    1 | pacotes                 | [Pacote dados](https://cienciadedatos.github.io/dados/)                                                                                                                            |
-|    1 | Dúvidas                 | [Videos do livro “Introduction to statistical learning”](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)                                                 |
-|    1 | Dúvidas                 | [VS code - atalhos](https://github.com/REditorSupport/vscode-R/wiki/Keyboard-shortcuts)                                                                                            |
-|    1 | Dúvidas                 | [Edição 2 do livro “Introduction to statistical learning”](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)                                                                     |
-|    1 | Dúvidas                 | [Livro - “Introduction to statistical learning”](https://www.statlearning.com/)                                                                                                    |
-|    2 | Dúvidas                 | [Pacote PAK](https://pak.r-lib.org/)                                                                                                                                               |
 |    3 | Colaboração             | [Colaborando com o pacote Microdatasus](https://youtu.be/sRT8oSpECH4)                                                                                                              |
 |    3 | Git e GitHub            | [Folha de dicas do Git (cheatsheet)](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/)                                                                          |
 |    3 | Git e GitHub            | [Materiais da R-Ladies SP sobre a Hacktoberfest 2020](https://r-ladies-sao-paulo.github.io/2020-hacktoberfest/)                                                                    |
@@ -80,16 +75,15 @@ relacionadas com o conteúdo da aula).
 |    3 | Git e GitHub            | [Introdução ao controle de versão com git, GitHub e RStudio](https://mauriciovancine.github.io/short-course-git-github-rstudio/slides/pres_short_course_git_github_rstudio.html#1) |
 |    3 | GitHub                  | [Termos main e master](https://blog.curso-r.com/posts/2020-07-27-github-main-branch/)                                                                                              |
 |    3 | Git e GitHub            | [Livro Happy Git and GitHub for the useR](https://happygitwithr.com/index.html)                                                                                                    |
+|    3 | GitHub Actions          | [Crontab](https://crontab.guru/)                                                                                                                                                   |
+|    3 | GitHub Actions          | [Documentação do GitHub Actions](https://docs.github.com/pt/actions/learn-github-actions/introduction-to-github-actions)                                                           |
+|    3 | GitHub Actions          | [Repositório Actions](https://github.com/r-lib/actions/tree/master/examples#quickstart-ci-workflow)                                                                                |
+|    3 | GitHub Actions          | [Como usar senhas no GitHub Actions](https://discourse.curso-r.com/t/armazenando-senhas-github-actions/1771)                                                                       |
+|    3 | Testes                  | [Palestra do Hadley Wickham sobre testes](https://www.youtube.com/watch?v=1ZrjWKcG1C4)                                                                                             |
+|    3 | Testes                  | [Pacote covr](https://covr.r-lib.org/)                                                                                                                                             |
 |    3 | Comunicação             | [Exemplo de pkgdown](https://github.com/tidyverse/dplyr/blob/main/_pkgdown.yml)                                                                                                    |
 |    3 | Comunicação             | [Exemplo de vignette](https://dplyr.tidyverse.org/articles/grouping.html)                                                                                                          |
-|    3 | Dúvidas                 | [Senha em arquivos estáticos html (avancado)](https://github.com/robinmoisson/staticrypt)                                                                                          |
-|    4 | GitHub Actions          | [Crontab](https://crontab.guru/)                                                                                                                                                   |
-|    4 | GitHub Actions          | [Documentação do GitHub Actions](https://docs.github.com/pt/actions/learn-github-actions/introduction-to-github-actions)                                                           |
-|    4 | GitHub Actions          | [Repositório Actions](https://github.com/r-lib/actions/tree/master/examples#quickstart-ci-workflow)                                                                                |
-|    4 | GitHub Actions          | [Como usar senhas no GitHub Actions](https://discourse.curso-r.com/t/armazenando-senhas-github-actions/1771)                                                                       |
-|    4 | Testes                  | [Palestra do Hadley Wickham sobre testes](https://www.youtube.com/watch?v=1ZrjWKcG1C4)                                                                                             |
-|    4 | Testes                  | [Pacote covr](https://covr.r-lib.org/)                                                                                                                                             |
-|   NA | NA                      | [NA](NA)                                                                                                                                                                           |
+|    3 | pacotes                 | [Exemplo criado no curso](https://github.com/jtrecenti/countrrry)                                                                                                                  |
 
 ## Redes sociais da Curso-R
 

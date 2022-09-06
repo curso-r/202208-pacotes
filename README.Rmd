@@ -5,7 +5,7 @@ params:
   trilha_clean: programacao_para_ciencia_de_dados
   turma: 202208-pacotes
   nome_curso: Pacotes
-  num_aula: '0'
+  num_aula: '3'
   download_material: 'FALSE'
 ---
 
@@ -127,7 +127,7 @@ id_spreadsheet |>
   dplyr::mutate(link = glue::glue("[{desc}]({url})")) |>
   dplyr::select(-desc,-url) |>
   dplyr::arrange(aula) |>
-  # dplyr::filter(aula <= params$num_aula) |>
+ dplyr::filter(aula <= params$num_aula) |>
   knitr::kable(col.names = c("Aula", "Tema", "Descrição")) 
 }, "erro")
 
