@@ -10,9 +10,21 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
 Imports: 
+    abjutils,
     dados,
     dplyr,
-    magrittr
+    lubridate,
+    magrittr,
+    stringr,
+    usethis
 Depends: 
     R (>= 4.1.0)
 LazyData: true
+URL: https://github.com/jtrecenti/countrrry
+BugReports: https://github.com/jtrecenti/countrrry/issues
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
+VignetteBuilder: knitr
+Config/testthat/edition: 3
